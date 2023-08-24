@@ -51,7 +51,7 @@ section{
     .output{
         width:330px;
         height: auto;
-        margin-left: 2rem;
+        /* margin-left: 2rem; */
     }
     .output h3{
         font-size: 10px;
